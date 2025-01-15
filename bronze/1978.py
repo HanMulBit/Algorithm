@@ -13,7 +13,7 @@ n = int(input())
 n_list = list(map(int,input().split()))
 count = 0
 
-for num in n:
+for num in n_list:
     if is_prime(num):
         count += 1
         
