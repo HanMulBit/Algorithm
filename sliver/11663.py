@@ -16,4 +16,3 @@ for _ in range(m):
     result = right - left
     print(result)
     
-    
